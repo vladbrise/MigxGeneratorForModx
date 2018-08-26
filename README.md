@@ -1,0 +1,1 @@
+**Migx fields generator for Modx Revolution**
