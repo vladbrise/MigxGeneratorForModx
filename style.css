@@ -1,0 +1,21 @@
+body {
+  font-family: 'Roboto';
+}
+#add_field {
+  padding: 10px;
+  color: #ffffff;
+  background: tomato;
+  cursor: pointer;
+}
+#generate {
+  cursor: pointer;
+  padding: 10px;
+  color: #ffffff;
+  background: thistle;
+}
+.fields_list {
+  margin-bottom: 20px;
+}
+.output {
+  margin-top: 20px;
+}
