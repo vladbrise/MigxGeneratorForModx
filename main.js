@@ -9,7 +9,7 @@ $(document).ready(function () {
   add.click(function () {
 
 
-
+    //HUI TVOYA MAMKA
     $('.fields_list').append('<div class="item">\n' +
       '      <input type="text" placeholder="Поле" name="field" id="migx_field">\n' +
       '      <input type="text" placeholder="Название" id="caption">\n' +
